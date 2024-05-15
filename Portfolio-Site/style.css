@@ -1,0 +1,65 @@
+.logo-image {
+    width: 100px;
+    height: 100px;
+}
+
+.header-link-item:hover {
+    color: red
+}
+
+.banner-icon {
+    color: aqua;
+    font-size: 28px;
+}
+
+.banner-image {
+    width: 460px;
+    padding-bottom: 20px;
+}
+
+.carousel-control-prev:hover {
+    background-color: black;
+}
+
+.carousel-control-next:hover {
+    background-color: black;
+}
+
+.contact-me {
+
+    box-shadow: 3px 3px 6px rebeccapurple;
+    width: 400px;
+    height: 250px;
+   
+}
+
+.name {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: black;
+    height: 40px;
+    width: 300px;
+}
+
+.email {
+    margin-top: 10px;
+    height: 40px;
+    width: 300px;
+    background-color: black;
+}
+
+.message {
+    margin-top: 10px;
+    height: 100px;
+    width: 300px;
+    background-color: black;
+}
+.footer-s{
+
+    box-shadow: 3px 3px 6px rgb(172, 166, 177);
+    width: 100%;
+
+}
+hr{
+    color: beige;
+}
